@@ -5,3 +5,4 @@ The App is created as a reallife helping utility to manage Working Hours and cre
 We collaborated over a seperate Private Github Repo, but decided to publish it seperately in this Clean Repository :)
 
 Have fun !
+Jakub and @EtienneFeyrer
