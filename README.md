@@ -6,3 +6,4 @@ We collaborated over a seperate Private Github Repo, but decided to publish it s
 
 Have fun !
 Jakub and @EtienneFeyrer:-)
+![image](https://github.com/user-attachments/assets/11a268f0-9252-4254-9e73-07afd5c9dcff)
